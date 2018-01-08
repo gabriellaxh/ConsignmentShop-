@@ -1,0 +1,9 @@
+c:\users\gabriela\source\repos\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\netstandard2.0\ConsignmentShopLibrary.deps.json
+c:\users\gabriela\source\repos\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\netstandard2.0\ConsignmentShopLibrary.dll
+c:\users\gabriela\source\repos\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\netstandard2.0\ConsignmentShopLibrary.pdb
+c:\users\gabriela\source\repos\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\netstandard2.0\ConsignmentShopLibrary.csprojResolveAssemblyReference.cache
+c:\users\gabriela\source\repos\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\netstandard2.0\ConsignmentShopLibrary.csproj.CoreCompileInputs.cache
+c:\users\gabriela\source\repos\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\netstandard2.0\ConsignmentShopLibrary.AssemblyInfoInputs.cache
+c:\users\gabriela\source\repos\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\netstandard2.0\ConsignmentShopLibrary.AssemblyInfo.cs
+c:\users\gabriela\source\repos\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\netstandard2.0\ConsignmentShopLibrary.dll
+c:\users\gabriela\source\repos\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\netstandard2.0\ConsignmentShopLibrary.pdb

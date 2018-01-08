@@ -1,0 +1,5 @@
+c:\users\gabriela\source\repos\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.csprojResolveAssemblyReference.cache
+c:\users\gabriela\source\repos\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.ConsignmentShop.resources
+c:\users\gabriela\source\repos\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.Properties.Resources.resources
+c:\users\gabriela\source\repos\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.csproj.GenerateResource.Cache
+c:\users\gabriela\source\repos\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.csproj.CoreCompileInputs.cache
